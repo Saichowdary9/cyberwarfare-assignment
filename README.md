@@ -103,7 +103,7 @@ http://192.168.154.132:8000
 
 ## 🎥 Video Demonstration
 
-📌 **(Add your Google Drive link here)**
+📌 https://drive.google.com/file/d/1LIUQQDuqEvhRIgN7WwxWCrsZdf6o6eji/view?usp=sharing
 
 The video demonstrates:
 
